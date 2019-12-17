@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 14:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\DjangoProjects\settings.py:120
+msgid "English"
+msgstr ""
+
+#: .\DjangoProjects\settings.py:121
+msgid "French"
+msgstr ""
+
+#: .\templates\base.html:37
+msgid "Accueil"
+msgstr ""
+
+#: .\templates\base.html:42
+msgid "Ingrédients"
+msgstr ""
+
+#: .\templates\base.html:46
+msgid "Liste Ingrédients"
+msgstr ""
+
+#: .\templates\base.html:48
+msgid "Ajouter Ingrédient"
+msgstr ""
+
+#: .\templates\base.html:54
+msgid "Recettes"
+msgstr ""
+
+#: .\templates\base.html:57 .\templates\list\ingredients_list.html:3
+#: .\templates\list\ingredients_list.html:5
+msgid "Liste Recettes"
+msgstr ""
+
+#: .\templates\base.html:58
+msgid "Ajouter Recette"
+msgstr ""
+
+#: .\templates\base.html:63
+msgid "Inscription"
+msgstr ""
+
+#: .\templates\base.html:69
+msgid "Bonjour et bienvenue"
+msgstr ""
+
+#: .\templates\base.html:72
+msgid "Déconnexion"
+msgstr ""
+
+#: .\templates\base.html:76
+msgid "Non connecté !!!"
+msgstr ""
+
+#: .\templates\base.html:79 .\templates\registration\login.html:3
+#: .\templates\registration\login.html:10
+msgid "Connexion"
+msgstr ""
+
+#: .\templates\index.html:3
+msgid "Application Django"
+msgstr ""
+
+#: .\templates\list\ingredients_list.html:13
+msgid "Ingrédient"
+msgstr ""
+
+#: .\templates\registration\login.html:5
+msgid "Se connecter"
+msgstr ""
+
+#: .\templates\registration\register_success.html:3
+#: .\templates\registration\register_success.html:5
+msgid "Inscription réussie"
+msgstr ""

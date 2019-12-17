@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}{% trans 'Enregistrer Ingrédient' %}{% endblock %}
+{% block content %}
+    <h2 align="center">{% trans 'Enregistrer un ingrédient' %}</h2>
+    <div>
+        <form action="" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button class="btn-success" type="submit">{% trans 'Enregistrer' %}</button>
+        </form>
+    </div>
+{% endblock %}

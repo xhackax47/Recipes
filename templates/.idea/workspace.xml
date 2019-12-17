@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67d68ed9-8d3c-4fc3-8fff-cc747ddecb76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/.idea/2019_ril.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/coordonnees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/dict_samples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/ensembles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/fonction_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/remove_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2019_ril/titanic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/DjangoProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoProjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoProjects/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoProjects/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoProjects/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoProjects/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0002_auto_20191126_1155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0003_ingredient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0004_auto_20191126_1409.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0005_recipeingredientunit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0006_auto_20191126_1423.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0007_unit_is_visible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0008_unit_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/0009_auto_20191126_1627.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes_list.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1USzEMf4hjeeqLFgZB7azfVAvU5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crepes_bretonnes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d68ed9-8d3c-4fc3-8fff-cc747ddecb76" name="Default Changelist" comment="" />
+      <created>1575364671403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575364671403</updated>
+      <workItem from="1575364672936" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

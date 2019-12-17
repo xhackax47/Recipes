@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}{% trans 'Liste Ingrédients' %}{% endblock %}
+{% block content %}
+    <h2 align="center">{% trans 'Liste Ingrédients' %}</h2>
+    <ul class="listIngredients">
+        {% for object in object_list %}
+            <div class="card">
+                <div class="card-body">
+                    <img src="{% static '../static/img/assortiment-ingredients-pour-cuisson_23-2147749527.jpg' %}" class="card-img-top" alt="Photo">
+                    <h5 class="card-title">{{ object.name }}</h5>
+                    <p class="card-text">{{ object.description }}</p>
+                    <a href="{% url "recipes_search_by_ingredient_list" object.name %}" class="card-link">{% trans 'Ingrédient' %}
+                        : {{ object.name }}</a>
+                </div>
+            </div>
+        {% endfor %}
+    </ul>
+{% endblock %}

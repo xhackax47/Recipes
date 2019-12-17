@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}{% trans 'Liste Recettes' %}{% endblock %}
+{% block content %}
+    <h2 align="center">{% trans 'Liste Recettes' %}</h2>
+    <ul class="listRecipes">
+        {% for object in object_list %}
+            <div class="card">
+                <div class="card-body">
+                    <img src="{% static '../static/img/recette-healthy-header.png' %}" class="card-img-top" alt="Photo">
+                    <h5 class="card-title">{{ object.title }}</h5>
+                    <p class="card-text">{{ object.description }}.</p>
+                    <a href="{% url "recipes_detail" object.pk %}" class="card-link">{% trans 'Recette' %} : {{ object.title }}</a>
+                </div>
+            </div>
+        {% endfor %}
+    </ul>
+{% endblock %}

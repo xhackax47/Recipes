@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}{% trans 'Application Django' %}{% endblock %}
+{% block content %}
+    <h2 align="center">{% trans 'Application Django' %}</h2>
+    <div class="container-fluid" align="center" >
+        <img src="{% static 'img/recipes.jpg' %}" width="400" height="300">
+    </div>
+{% endblock %}

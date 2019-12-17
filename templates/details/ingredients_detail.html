@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}Détails ingredient{% endblock %}
+{% block content %}
+    <h2>Ingrédient : {{ object.name }}</h2>
+    <p> {{ object.detail }}</p>
+        {% for r_i_u in object.name %}
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">{{ r_i_u.ingredient }}</h5>
+                    <p class="card-text">{{ r_i_u.ingredient }}.</p>
+                </div>
+            </div>
+            <li></li>
+        {% endfor %}
+{% endblock %}

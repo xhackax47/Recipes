@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block title %}{% trans 'Liste de recettes contenant le tag' %}{% endblock %}
+{% block content %}
+    <h2 align="center">{% trans 'Liste de recettes contenant le tag' %}</h2>
+    <ul class="listIngredients">
+        {% for object in object_list %}
+            <a href="{% url "recipes_search_by_recipe_list" object.title %}"><h2>{{ object.title }}</h2></a>
+        {% endfor %}
+    </ul>
+{% endblock %}
